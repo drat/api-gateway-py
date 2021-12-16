@@ -1,0 +1,6 @@
+mysql-connector==2.1.7
+requests
+pytz
+python-multipart
+starlette
+xmltodict
