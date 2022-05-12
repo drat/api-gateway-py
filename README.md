@@ -1,5 +1,8 @@
 # Universal API Gateway
 
+![ugw-block-diagram drawio](https://user-images.githubusercontent.com/17728233/167995708-1b7e8029-c83d-41cb-8a75-517a6ace54f9.png)
+
+
 ## DockerImage For Linux/Mac
 
 ```docker
